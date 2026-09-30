@@ -1,0 +1,12 @@
+{
+  "name": "cloudee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudee: a climate-anxiety coping companion",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "openai": "^4.67.0"
+  }
+}
